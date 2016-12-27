@@ -1,0 +1,38 @@
+html, body {
+    background-color: #5E707C;
+}
+
+h3 {
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.btn-toolbar {
+    margin-top: 3px;
+}
+
+.table > tbody > tr > td.col-btn {
+    padding-right: 0;
+    width: 20px;
+}
+
+.table > tbody > tr > td {
+    vertical-align: middle;
+}
+
+.table tr:last-child {
+    border-bottom: 1px solid #ddd;
+}
+
+.table > thead > tr > th {
+    border: none;
+}
+
+.form-dlt-btn {
+    float: left;
+    margin-left: 5px;
+}
+
+.bold {
+    font-weight: bold;
+}
